@@ -7,7 +7,7 @@ My custom CSS files for [Roam Research](https://roamresearch.com)
 > 可能屏幕适配会有个小问题：我是根据自己的屏幕尺寸设置的 content 宽度，如果大家发现左右宽度不合适，可以调整一下 article-width 这个参数。👇
 
 ```css
-@import url('https://jimmylv.github.io/styled-roam/index.css');
+@import url('https://raw.githubusercontent.com/LoveOctocat/styled-roam/master/index.css');
 
 :root {
   --article-width: 716px;
